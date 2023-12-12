@@ -7,5 +7,5 @@ function convertInchesToFeet(inches) {
 
 // Example Usage
 const inches = 70;
-const feetResult = convertInchesToFeet(inches)
+const feetResult = convertInchesToFeet(inches);
 console.log(`Feet: ${feetResult}`);
